@@ -25,7 +25,7 @@
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+<img width=13% src="https://i.postimg.cc/LXccx4w9/Inserir-um-t-tulo-removebg-preview.png-margin-w=15">
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 ### Tools:
@@ -53,6 +53,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-<img width=5% src="https://imgs.search.brave.com/mCakTpOwAcwkeWuRoViN4YsVZtcrm-m5jAYBnKkRdww/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJx/dzJnL3N0eWxlcy9j/b21tdW5pdHlJY29u/X2l0Y2l5MXFtanA4/NzEucG5n">
+
 
 
