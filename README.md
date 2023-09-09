@@ -53,6 +53,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-<img width=10% src="https://imgs.search.brave.com/mCakTpOwAcwkeWuRoViN4YsVZtcrm-m5jAYBnKkRdww/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJx/dzJnL3N0eWxlcy9j/b21tdW5pdHlJY29u/X2l0Y2l5MXFtanA4/NzEucG5n">
+<img width=5% src="https://imgs.search.brave.com/mCakTpOwAcwkeWuRoViN4YsVZtcrm-m5jAYBnKkRdww/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJx/dzJnL3N0eWxlcy9j/b21tdW5pdHlJY29u/X2l0Y2l5MXFtanA4/NzEucG5n">
 
 
